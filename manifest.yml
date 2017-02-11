@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: java-line-bot
-  host: java-line-bot.mybluemix.net
+  host: java-line-bot
   disk_quota: 1024M
